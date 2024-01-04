@@ -1,0 +1,16 @@
+{
+  "users": {
+    "test1": {
+      "id": "0",
+      "login": "test1@gmail.com",
+      "password": "testtest",
+	    "record": "0"
+    },
+    "test2": {
+      "id": "1",
+      "login": "test2@gmail.com",
+      "password": "testtest",
+	    "record": "0"
+    }
+  }
+}
